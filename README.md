@@ -1,4 +1,4 @@
-Execução
+Execução:
 -------------
 	Prerequisites:
 
@@ -16,7 +16,7 @@ Execução
 		2. Click on "Run As" option;
 		3. Select "JUnit Test".
 		
-Sobre o teste
+Sobre o teste:
 -------------
 
 O teste consiste em criar um programa que leia todas as linhas do arquivo CSV (cidades.csv na pasta de resources) e utilize esse arquivo como base para consultas, onde a primeira linha (cabeçalho) contém o nome das propriedades e as linhas subsequentes os valores. Após ler o arquivo, o programa deve começar a ouvir o console a espera dos comandos de consulta. Abaixo segue a lista dos comandos que devem ser interpretados:
@@ -29,4 +29,4 @@ O teste consiste em criar um programa que leia todas as linhas do arquivo CSV (c
 
 > - Não é permitido utilizar bibliotecas e frameworks externos, apenas classes do JDK5 ou superior (exceto JUnit para os testes de unidade e Maven ou Gradle como ferramentas build)
 > - Interações devem ser feitas apenas via console (System.in e System.out)
-> - Não é permitido utilizar bancos de dados ou outros serviços de armazenamento de dados que não tenham sido desenvolvidos pelo próprio desafiante.
+> - Não é permitido utilizar bancos de dados ou outros serviços de armazenamento de dados que não tenham sido desenvolvidos pelo próprio desafiado.
